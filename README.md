@@ -66,11 +66,11 @@ O projeto está organizado em um notebook Jupyter (`JPR2025_Handson_IA.ipynb`) c
 
 ## 👥 Autores
 
-- **Julio Cesar Nather Junior, MD, MSc**
-  - [LinkedIn](https://www.linkedin.com/in/julio-nather-049618181/)
-
-- **Felipe Kitamura, MD, PhD**
-  - [LinkedIn](https://www.linkedin.com/in/felipekitamura/)
+- **Julio Cesar Nather Junior, MD, MSc** - [LinkedIn](https://www.linkedin.com/in/julio-nather-049618181/)
+- **Augusto Sarquis Serpa** - [LinkedIn](https://www.linkedin.com/in/augusto-sarquis-serpa-6aa8a3223/)
+- **Eduardo Caminha Nunes** - [LinkedIn](https://www.linkedin.com/in/eduardocaminha/)
+- **Eduardo Farina** - [LinkedIn](https://www.linkedin.com/in/eduardomjmfarina/)
+- **Felipe Kitamura** - [LinkedIn](https://www.linkedin.com/in/felipekitamura/)
 
 ## 📄 Licença
 
